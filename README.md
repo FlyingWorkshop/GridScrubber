@@ -1,2 +1,2 @@
 # GridScrubber
-Remove gridlines from a sketch I drew. Documents the journey and techniques that I've explored on this deceptively hard quest!
+See the cleaner.ipynb for an in-depth discussion and showcase of the process and techniques that I've explored.
